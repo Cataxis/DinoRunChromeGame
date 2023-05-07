@@ -1,0 +1,6 @@
+Cielo: #87CEEB (Azul claro)
+Nubes: #F0FFFF (Blanco azulado)
+Dinosaurio jugador: #FFA07A (Naranja claro)
+Dinosaurio volador: #ADD8E6 (Azul claro)
+Suelo: #8B4513 (Marrón oscuro)
+Cactus: #556B2F (Verde oliva)
